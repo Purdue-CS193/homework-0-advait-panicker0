@@ -8,8 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+![Image][https://static.wikia.nocookie.net/disney/images/b/bf/Mickey_Mouse_Disney_1.png/revision/latest/thumbnail/width/360/height/360?cb=20180813011713]
+
 ```markdown
 Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
